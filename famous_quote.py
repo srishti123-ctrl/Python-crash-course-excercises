@@ -1,0 +1,1 @@
+print("Brianna Wiest  once said,\"Your new life is going to cost you your old one.\"")
